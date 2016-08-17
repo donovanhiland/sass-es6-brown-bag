@@ -1,6 +1,0 @@
-sass/scss
-
-
-
-
-es6
